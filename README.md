@@ -1,5 +1,5 @@
 # Tic-Tac-Toeeee
-Click on the link : https://tic-tak-toeee-by-nk.netlify.app/
+Click on the link : https://tik-tac-toee-by-nk.netlify.app/
 
 🎮 Just rolled out a super cool Tic Tac Toe game using the power trio of HTML, CSS, and JavaScript! 🚀 The game features a sleek design, responsive layout, and engaging gameplay. The vibrant color scheme and clean interface make it a visually appealing experience. 🎨
 
